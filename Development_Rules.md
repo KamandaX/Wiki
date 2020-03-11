@@ -1,8 +1,8 @@
 # Development flow
 
 * For every feature/bug fix - new branch needs to be created
-    * feature - feature/
-    * bug fix / fixes - fix
+    * feature - `feature/`
+    * bug fix / fixes - `fix/`
 * That feature/bug fix branch should also contain tests
 * Merge request is only created when work with branch is done 
     * if you want to check if there is some kind of chuck comments - just create a merge request with `WIP:` at the start
