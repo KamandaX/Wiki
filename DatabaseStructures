@@ -2,6 +2,7 @@ PHONE
 id
 manufacturer
 model_name
+display_resoliution
 price
 launch_date
 screen_size
