@@ -39,8 +39,6 @@ id|
 question_content|
 aspect {processing_power, main_camera, selfie_camera, storage, battery_life, durability, popularity, screen_size, price}|
 
-#Perhaps we should have an aspect table consisting of all questions assosiated with that aspect, might be easier to fetch a qestion?
-
 QUESTION_OPTION|
 -|
 fk_questionid|
