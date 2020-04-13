@@ -10,9 +10,13 @@ protection_rating
 processor
 storage
 ram
-main_camera
-selfie_camera
 battery_size
+
+CAMERA
+fk_phoneid
+side {main, selfie}
+megapixels
+f-number
 
 SCORES
 fk_phoneid
