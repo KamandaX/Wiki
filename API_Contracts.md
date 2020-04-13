@@ -14,6 +14,8 @@ Where instead of `jwt_token`, an actual token is provided.
 
 ---
 
+If `X-Api-Request` header is not provided, API should redirect to landing page.
+
 If response code is **not** `200`, error object is returned:
 
 ```json
