@@ -50,5 +50,15 @@ Code 200
 
 [TBA]
 
+**`GET /api/v1/quiz`**
 
+Code 200
+```json
+  {
+    "data":
+    {
+      "message": "string" 
+    }
+  }
+```
 
