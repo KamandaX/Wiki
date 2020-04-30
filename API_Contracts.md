@@ -50,6 +50,21 @@ Code 200
 
 [TBA]
 
+---
+
+**`POST /api/v1/users`**
+
+Body
+```json
+{
+  "email": "string",
+  "username": "string",
+  "password": "string"
+}
+```
+
+---
+
 **`GET /api/v1/quiz`**
 
 Code 200
@@ -61,4 +76,5 @@ Code 200
     }
   }
 ```
+
 
