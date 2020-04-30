@@ -37,8 +37,8 @@ Code 200
     "answers": [
       {
         "answer": "string",
-        "img_url": "string"
-        "next_question_id" : 0
+        "img_url": "string",
+        "next_question_id": 0
       }
     ],
   }
