@@ -63,6 +63,13 @@ Body
 }
 ```
 
+Code 200
+```json
+{
+  "token": "string"
+}
+```
+
 ---
 
 **`GET /api/v1/quiz`**
