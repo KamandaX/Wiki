@@ -38,9 +38,9 @@ Code 200
       {
         "answer": "string",
         "img_url": "string"
+        "next_question_id" : 0
       }
     ],
-    "next_question_id" : 0
   }
 ```
 
