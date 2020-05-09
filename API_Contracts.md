@@ -52,7 +52,31 @@ Code 200
 
 ---
 
+Used for Signup
+
 **`POST /api/v1/users`**
+
+Body
+```json
+{
+  "email": "string",
+  "username": "string",
+  "password": "string"
+}
+```
+
+Code 200
+```json
+{
+  "token": "string"
+}
+```
+
+---
+
+Used for Login
+
+**`POST /api/v1/users/tokens`**
 
 Body
 ```json
@@ -83,5 +107,3 @@ Code 200
     }
   }
 ```
-
-
