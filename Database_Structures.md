@@ -52,16 +52,3 @@ id|
 email|
 username|
 registered_at|
-
-TOKEN|
--|
-value|
-created_at|
-expires_at|
-fk_userId|
-
-EXPIRED_TOKEN|
--|
-value|
-expired_at|
-fk_userId|
