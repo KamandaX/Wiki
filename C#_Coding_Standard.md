@@ -2,7 +2,7 @@
 * Use https://www.dofactory.com/reference/csharp-coding-standards as a reference. Setup your IDE to apply these rules.
 * Use 4 spaces instead of a tab.
 * Brackets can be ommited if the body consists of one line.
-    ```
+    ```C#
     // Correct
     if (clause)
     {
@@ -15,7 +15,7 @@
     if (clause) { /* Statement */ }
     ```
 * Access modifiers should be typed explicitly.
-    ```
+    ```C#
     // Correct
     internal class Example
     {
@@ -28,7 +28,7 @@
     }
     ```
 * Private variables should be named with `_camelCase`.
-    ```
+    ```C#
     // Correct
     private int _number;
     // Avoid
@@ -36,7 +36,7 @@
     private int Number;
     ```
 * Static variables and constants should be named with `PascalCase`.
-    ```
+    ```C#
     // Correct
     public static string ApiUrl;
     public const int Year = 2020;
