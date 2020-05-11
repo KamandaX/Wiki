@@ -52,7 +52,7 @@ Code 200
 
 ---
 
-**`POST /api/v1/signup`**
+**`POST /api/v1/users/signup`**
 
 Body
 ```json
