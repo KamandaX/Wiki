@@ -45,3 +45,10 @@ fk_questionid|
 option_content|
 picture_link|
 qustion_multiplier|
+
+USER|
+-|
+id|
+email|
+username|
+registered_at|
