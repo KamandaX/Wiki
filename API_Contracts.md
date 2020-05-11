@@ -52,13 +52,32 @@ Code 200
 
 ---
 
-**`POST /api/v1/users`**
+**`POST /api/v1/users/signup`**
 
 Body
 ```json
 {
   "email": "string",
   "username": "string",
+  "password": "string"
+}
+```
+
+Code 201
+```json
+{
+  "token": "string"
+}
+```
+
+---
+
+**`POST /api/v1/users/login`**
+
+Body
+```json
+{
+  "email": "string",
   "password": "string"
 }
 ```
@@ -83,5 +102,3 @@ Code 200
     }
   }
 ```
-
-
