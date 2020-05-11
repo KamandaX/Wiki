@@ -63,7 +63,7 @@ Body
 }
 ```
 
-Code 200
+Code 201
 ```json
 {
   "token": "string"
@@ -78,7 +78,6 @@ Body
 ```json
 {
   "email": "string",
-  "username": "string",
   "password": "string"
 }
 ```
