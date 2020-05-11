@@ -52,9 +52,7 @@ Code 200
 
 ---
 
-Used for Signup
-
-**`POST /api/v1/users`**
+**`POST /api/v1/signup`**
 
 Body
 ```json
@@ -74,9 +72,7 @@ Code 200
 
 ---
 
-Used for Login
-
-**`POST /api/v1/users/tokens`**
+**`POST /api/v1/users/login`**
 
 Body
 ```json
