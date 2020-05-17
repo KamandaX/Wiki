@@ -51,4 +51,5 @@ USER|
 id|
 email|
 username|
+password|
 registered_at|
