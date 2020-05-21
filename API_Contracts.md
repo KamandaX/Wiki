@@ -34,11 +34,13 @@ Code 200
 ```json
   {
     "title": "string",
+    "aspect": 0,
     "answers": [
       {
         "answer": "string",
         "img_url": "string",
-        "next_question_id": 0
+        "next_question_id": 0,
+        "multiplier": 0.0
       }
     ],
   }
